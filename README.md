@@ -16,7 +16,8 @@ The goal of this project is to learn Go, learn how interpreters work  and have f
 
 ## Notes
 
-You can find all the notes I take [here]()
+You can find all the notes I take [here](Notes.md)
+
 
 
 
